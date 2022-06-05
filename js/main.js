@@ -1191,7 +1191,7 @@ var CANVAS_WIDTH = 790,
     HIT_CENTER = 1,
     HIT_RIGHT = 2,
     ENABLE_FULLSCREEN, ENABLE_CHECK_ORIENTATION;
-TEXT_TEAM = "India;Australia;England;South Africa".split(";");
+TEXT_TEAM = "India;Australia;England;South Africa;".split(";");
 TEXT_GAMEOVER = "GAME OVER.";
 TEXT_SCORE = "FINAL SCORE\n";
 TEXT_PAUSE = "PAUSE";
